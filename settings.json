@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "twistkorn.aternos.me",
-    "port": 33715,
+    "ip": "JavasXosGuri.aternos.me",
+    "port": 22924,
     "version": "26.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "bot afk",
+        "Subscribe to zenitt",
+        "bot afk"
       ]
     },
     "chat-log": true,
